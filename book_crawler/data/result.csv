@@ -1,0 +1,203 @@
+category,title,author,tenlong,books
+Python,深入淺出Python,Paul Barry 著、蔣大偉 譯,616,702
+Python,Python機器學習,Sebastian Raschka 著，劉立民、吳建華 譯,452,458
+Python,EffectivePython中文版寫出良好Python程式的59個具體做法,Brett Slatkin 著、黃銘偉 譯,356,356
+Python,精通Python運用簡單的套件進行現代運算,Bill Lubanovic 著、賴屹民 譯,616,616
+Python,網站擷取使用Python,Ryan Mitchell 著，Studio Tib 譯,458,458
+Python,初探機器學習使用Python,Matthew Kirk 著；陳仁和  譯,379,379
+Python,黑帽Python給駭客與滲透測試者的Python開發指南,Justin Seitz 著、Studio Tib. 譯,316,316
+Python,高效能Python程式設計,"Micha Gorelick, Ian Ozsvald 著、楊仁和 譯",612,646
+Python,Python程式設計實務從初學到活用Python開發技巧的16堂課,何敏煌,437,442
+Python,高效率資料分析使用Python,Clinton W. Brownley 著、賴屹民 譯,458,458
+Python,Python設計模式深入解析,Sakis Kasampalis 著、江良志 譯,281,284
+Python,流暢的Python清晰簡潔有效的程式設計,Luciano Ramalho 著、賴屹民 譯,774,774
+Python,測試驅動開發使用Python,Harry J.W. Percival 著、賴屹民 譯,695,695
+Python,用Python開發經典遊戲,"Alejandro Rodas de Paz , Joseph Howse 著、朱宗安 譯",328,332
+Python,Python自動化的樂趣搞定重複瑣碎單調無聊的工作,Al Sweigart 著、H&C 譯,395,395
+Python,Python35技術手冊,林信良,411,411
+Python,Python網路爬蟲實戰,胡松濤,372,387
+Python,資料視覺化使用Python與JavaScript,Kyran Dale 著、林季岩 譯,537,537
+Python,資料結構使用Python,蔡明志,411,411
+Python,Python程式設計入門,葉難,484,490
+Python,Python專家實踐指南搭乘專業開發者的學習便車,"Kenneth Reitz, Tanya Schlusser 著、楊尊一 譯",458,458
+Python,精通機器學習使用Python,"Sarah Guido, Andreas C. Mueller 著、李宜修 譯",537,537
+Python,Python程式設計「超入門」,鎌田正浩 著、陳禹豪、林子政 譯,332,332
+Python,利用Python進行數據分析,麥金尼 (Wes McKinney),507,465
+Python,Python程式設計入門指南,Y. Daniel Liang 著、蔡明志 譯,411,411
+Python,Python函式庫語法範例字典,"池内孝啓, 鈴木たかのり, 石本敦夫, 小坂健二郎, 真嘉比愛   著、林子政 譯",383,356
+Python,DeepLearning用Python進行深度學習的基礎理論實作,斎藤康毅 著、吳嘉芳 譯,458,458
+Python,Python計算機視覺編程,索利姆 (Jan Erik Solem),393,360
+Python,不止是測試Python網路爬蟲王者Selenium,蟲師,442,442
+Python,量化投資以Python為工具,蔡立耑,564,594
+Python,Python網絡爬蟲實戰,胡松濤,273,308
+Python,Python自然語言處理,"伯德 (Steven Bird), 克萊恩 (Ewan Klein), 洛佩爾 (Edward Loper)",507,465
+Python,用Python寫網絡爬蟲,[澳]理乍得 勞森,257,235
+Python,實用Python程式設計,郭英勝/鄭志宏/龔志銘/謝哲光,266,333
+Python,Python也可以這樣學,董付國 著、廖信彥 審校,452,458
+Python,Python爬蟲開發與項目實戰,範傳輝,450,412
+Python,科學運算Python程式理論與應用,楊珮璐、宋強 著、胡嘉璽 審閱.,679,679
+Python,Python金融實戰,嚴玉星,450,374
+Python,Python數據挖掘入門與實踐,羅伯特·萊頓 (Robert Layton),336,308
+Python,Python架站特訓班Django最強實戰,鄧文淵 總監製/文淵閣工作室 編著,356,356
+Python,今天不學機器學習，明天就被機器取代從Python入手演算法,鄭捷,466,466
+Python,Python輕鬆學遊戲設計初體驗,Craig Richardson著 、顧思&#14871;譯／博碩文化 審校,328,332
+Python,Python程式設計實例入門,李馨,281,324
+Python,PythonxArduino物聯網整合開發實戰,Pratik Desai 著、CAVEDU團隊 曾吉弘 譯,387,387
+Python,圖解資料結構使用Python,吳燦銘,390,395
+C,深入淺出C,"David Griffiths, Dawn Griffiths 著、楊仁和 譯",695,695
+C,精通C,Jon Skeet 著、張簡才祿 譯,379,379
+C,C編程規範,"Herb Sutter, Andrei Alexandrescu 著、侯捷、陳碩 譯",458,522
+C,C精要,釵N松,379,432
+C,透視C語言指標深度探索記憶體管理核心技術,Richard Reese 著、莊弘祥 譯,379,379
+C,萬無一失的程式碼終結CC軟體漏洞,Robert C. Seacord 著、賈蓉生、蔡旻嶧 譯,562,569
+C,C沉思錄,"Andrew Koenig, Barbara E. Moo 著、黃曉春 譯、孟岩、陳錦輝 審校",406,411
+C,大型C軟體設計,John Lakos 著、陳逸宏 譯,774,774
+C,精通CC指標深入系統底層技術,蔡明志,537,537
+C,C並行程式設計實戰手冊,Anthony Williams 著、莊弘祥 譯,537,537
+Java,Java效能優化指南,"Charlie Hunt, Binu John 著、陳逸嘉 譯",537,612
+Java,Java8Lambdas技術手冊,Richard Warburton 著、林信良 譯,379,379
+Java,Java程式設計師面試寶典,Noel Markham 著、林耕溥 譯,356,356
+Java,JAVASE8基礎必修課,蔡文龍、張志成/編著、吳明哲、何嘉益/策劃,419,504
+Java,Java網路程式設計,湯秉翰,452,458
+Java,Java加密與解密的藝術,梁棟,379,360
+Java,精通Java網路程式,汪曉平、俞俊、李功、邱煌森,563,594
+C++,深入淺出C,"David Griffiths, Dawn Griffiths 著、楊仁和 譯",695,695
+C++,精通C,Jon Skeet 著、張簡才祿 譯,379,379
+C++,C編程規範,"Herb Sutter, Andrei Alexandrescu 著、侯捷、陳碩 譯",458,522
+C++,C精要,釵N松,379,432
+C++,透視C語言指標深度探索記憶體管理核心技術,Richard Reese 著、莊弘祥 譯,379,379
+C++,萬無一失的程式碼終結CC軟體漏洞,Robert C. Seacord 著、賈蓉生、蔡旻嶧 譯,562,569
+C++,C沉思錄,"Andrew Koenig, Barbara E. Moo 著、黃曉春 譯、孟岩、陳錦輝 審校",406,411
+C++,大型C軟體設計,John Lakos 著、陳逸宏 譯,774,774
+C++,精通CC指標深入系統底層技術,蔡明志,537,537
+C++,C並行程式設計實戰手冊,Anthony Williams 著、莊弘祥 譯,537,537
+C#,深入淺出C,"David Griffiths, Dawn Griffiths 著、楊仁和 譯",695,695
+C#,精通C,Jon Skeet 著、張簡才祿 譯,379,379
+C#,C編程規範,"Herb Sutter, Andrei Alexandrescu 著、侯捷、陳碩 譯",458,522
+C#,C精要,釵N松,379,432
+C#,透視C語言指標深度探索記憶體管理核心技術,Richard Reese 著、莊弘祥 譯,379,379
+C#,萬無一失的程式碼終結CC軟體漏洞,Robert C. Seacord 著、賈蓉生、蔡旻嶧 譯,562,569
+C#,C沉思錄,"Andrew Koenig, Barbara E. Moo 著、黃曉春 譯、孟岩、陳錦輝 審校",406,411
+C#,大型C軟體設計,John Lakos 著、陳逸宏 譯,774,774
+C#,精通CC指標深入系統底層技術,蔡明志,537,537
+C#,C並行程式設計實戰手冊,Anthony Williams 著、莊弘祥 譯,537,537
+R,R錦囊妙計,Paul Teetor 著、張夏菁 譯,537,537
+R,R軟體資料分析基礎與應用,Jared P. Lander 著、鍾振蔚 譯,514,618
+R,SQLServer與R開發實戰講堂,楊志強,537,537
+R,實用R程式設計,郭英勝、鄭志宏、謝哲光、龔志銘,319,399
+R,R資料科學,"Hadley Wickham, Garrett Grolemund 著、黃銘偉 譯",616,616
+R,R數據可視化手冊,常 (Winston Chang),507,465
+R,R語言資料分析活用範例詳解,方匡南/朱建平/姜葉飛 著、H&C 譯,411,411
+R,R語言編程藝術,麥特洛夫 (Norman Matloff),393,360
+R,實戰R語言預測分析,游皓麟,395,494
+R,機器學習與R語言實戰,丘祐瑋 (Yu-Wei Chiu),393,327
+R,巨量資料的第一步基礎R語言與商業應用,韓偉 著、胡嘉璽,379,432
+R,量化投資以R語言為工具,蔡立耑,564,594
+R,R語言深入淺出財經計量,何宗武,452,458
+R,投資學及其R語言應用,朱順泉,190,166
+R,統計分析與R,陳正昌、賈俊平,585,514
+R,R財經計量入門手冊,何宗武,475,475
+R,自動化交易R語言實戰指南,[美]Chris Conlan 康蘭,393,327
+R,R語言預測實戰,游皓麟,450,474
+R,R語言金融演算法與台指期貨程式交易實務,酆士昌 著,390,395
+R,大數據分析SQLServer2016與R全方位應用,謝邦昌/宋龍華/李紹綸,395,395
+R,R語言邁向BigData之路,"洪錦魁, 蔡桂宏",458,458
+R,R語言期貨演算法交易實務120個關鍵技巧詳解,酆士昌、劉承彥 著,390,395
+R,金融科技實戰R語言與量化投資,蔡立耑,507,514
+R,金融資料採礦R及Excel實例演練,謝邦昌、鄭宇庭,589,490
+R,R語言與商業智能,"韓偉, 毛俊傑",170,179
+R,R語言與數據挖掘,"張良均, 謝佳標, 楊坦, 肖剛",336,308
+R,R語言數據分析與挖掘實戰,"張良均, 雲偉標, 王路, 劉曉勇",393,360
+R,R語言市場研究分析,"克裡斯托弗 N.查普曼 (Christopher N. Chapman), 埃里亞·麥克唐奈·費特 (Elea McDonnel)",507,465
+R,R資料採礦與數據分析以GUI套件Rattle結合程式語言實作,何宗武,395,475
+R,R語言與數據挖掘最佳實踐和經典案例,趙彥昌,279,256
+R,預測分析建模Python與R語言實現,托馬斯·W.米勒 (Thomas W.Miller),450,412
+R,零售業資料採礦R及Excel運用,謝邦昌、鄭宇庭,551,458
+R,R數據分析秘笈,"維西瓦·維斯瓦納坦 (Viswa Viswanathan), 珊蒂·維斯瓦納坦 (Shanthi Viswanathan)",336,308
+R,機器學習與R語言,Brett Lantz,393,327
+R,機器學習與R語言,佈雷特·蘭茨 (Brett Lantz),393,327
+R,R軟體統計應用分析實務,吳明隆,"1,080",948
+R,量化金融R語言高級教程,"艾迪娜·伯林格 (Edina Berlinger), 等",450,412
+JavaScript,JavaScript設計模式,Stoyan Stefanov 著、洪象成 譯,379,379
+JavaScript,可測試的JavaScript,Mark Ethan Trostler 著、陳仁和 譯,411,411
+JavaScript,JavaScript深入精要,Cody Lindley 著、賴屹民 譯,379,379
+JavaScript,SpeakingJavaScript簡明完整的JS精要指南,Axel Rauschmayer 著、黃銘偉 譯,616,741
+JavaScript,忍者JavaScript開發技巧探秘,John Resig、Bear Bibeault 著、江良志 譯,460,466
+JavaScript,深入淺出JavaScript程式設計,"Eric T. Freeman, Elisabeth Robson 著、蔣大偉 譯",774,774
+JavaScript,資料視覺化使用Python與JavaScript,Kyran Dale 著、林季岩 譯,537,537
+JavaScript,HTML5與JavaScriptWebApps開發實務,Wesley Hales 著、賴屹民 譯,332,332
+JavaScript,JavaScript設計模式與開發實踐,曾探,359,363
+JavaScript,JavaScript資料結構及演算法實作,Loiane Groner 著、孫曉博、鄧鋼、吳雙、陳迪、袁源 譯,250,253
+JavaScript,JavaScript網頁程式設計超入門,狩野祐東 著、陳禹豪 譯,387,387
+JavaScript,JavaScript之美聽頂尖程式設計師闡述他們的思維,Anton Kovalyov 著、楊尊一 譯,316,316
+JavaScript,JavaScriptObjectNotation精要JSON核心主題導引,Lindsay Bassett 著、楊尊一 譯,237,237
+JavaScript,深入淺出HTML5程式設計,"Eric Freeman, Elisabeth Robson 著、莊惠淳 譯",616,616
+JavaScript,JavaScript設計與開發透視新技術關鍵完全實力養成,Larry Ullman 著、姚軍 譯、廖信彥 審校,460,531
+JavaScript,網頁程式設計的16堂課HTML5‧CSS3‧JavaScript‧jQuery‧AJAX‧Bootstrap‧GoogleMaps,施威銘研究室著,435,435
+JavaScript,前端行動網頁設計速成班Bootstrap4CSS3HTML5JavaScript,Silvio Moreto,395,411
+JavaScript,建立同構JavaScript應用程式,"Jason Strimpel, Maxime Najim 著、楊仁和 譯",458,458
+JavaScript,JavaScript數據可視化編程,托馬斯 (Stephen A.Thomas),564,517
+JavaScript,大神降臨JavaScript前端大師養成祕笈,歐陽繼超,387,387
+JavaScript,王者歸來JavaScript最具代表性的420個範例,張鑫 、薛莉穎、高茹,624,711
+JavaScript,用Javascript一統前後端御用語言Nodejs出巡Web,尤嘉,387,387
+JavaScript,JavaScriptjQueryMobileNodejs跨平台網頁設計範例教本,陳會安,427,513
+JavaScript,Reactjs頂尖開發建立使用者介面的JavaScript函式庫,Frank Bagnardi、Jonathan Beebe、Richard Feldman、Tom Hallett、Simon Hojberg、 Karl Mikkelsen,379,379
+JavaScript,從HTML5CSS3JavaScript到jQueryNodejs程式設計,陳會安 著,527,490
+JavaScript,網頁設計必學的程式實作技術HTML5CSS3JavaScript,榮欽科技、陳婉凌,452,522
+JavaScript,JavaScriptjQueryNodejs網頁設計與物聯網應用開發教本,陳會安,427,427
+JavaScript,深入理解ES6,Nicholas C. Zakas,564,594
+PHP,深入淺出PHP與MySQL,Lynn Beighley、Michael Morrison 著、楊仁和 譯,774,774
+PHP,現代PHP新的特點及良好習慣,Josh Lockhart 著、張正豪 譯,458,458
+PHP,PHP學習手冊,David Sklar 著、張靜雯 譯,458,458
+PHP,Laravel啟動與運行,Matt Stauffer 著、賴屹民 譯,616,741
+PHP,和Facebook一起進化到PHP7,劉增傑、張工廠,537,537
+PHP,PHPMySQL跨裝置網站開發超威範例集,陳惠貞、陳俊榮,442,532
+PHP,漫話PHP史上最易懂的PHP手冊,陳琨和,250,253
+PHP,專家教你用PHP建構一個全能的網站SEOCSSMySQLAJAX,陳俊雄,406,411
+PHP,PHP5Unleashed,John C. Coggeshall,"1,646",2100
+PHP,FlashandPHPBible,Matthew Keefe,973,1575
+Go,精通Go程式設計,"Alan A. A. Donovan, Brian W. Kernaghan 著、楊尊一 譯",458,458
+Go,GoatGoogleGo語言實際上手,郝林,545,545
+Go,Go語言實戰,"威廉·肯尼迪 (William Kennedy), 布賴恩·克特森 (Brian Ketelsen), 埃里克·聖馬丁 (Erik St.Martin)",322,308
+Go,你所不知道的JS導讀，型別與文法,Kyle Simpson 著、黃銘偉 譯,411,411
+Go,比C還簡捷使用GoWeb快建網頁,謝孟軍,411,411
+Go,Go語言程序設計,薩默菲爾德 (Mark Summerfield),393,204
+Go,就是愛耍LINE,手機 GO GO 編輯部,151,133
+Go,Go語言學習筆記,雨痕,507,534
+Go,CloudNativeGo構建基於Go和React的雲原生Web應用與微服務,Kevin Hoffman;Dan Nemeth,393,414
+Go,Go語言編程,許式偉,279,256
+Go,不怕從零開始朱嘉偉與他的GO車誌,朱嘉偉,324,324
+Go,漂亮寫真這樣GO構圖與採光的魅力攝影術,柯呈和,304,351
+Go,臣服的力量放下執著，相信每一刻都是最好的安排,Judith Orloff 著 顧淑馨 譯,304,300
+Go,GoWeb編程,[新加坡]鄭兆雄,450,390
+Go,極致魅力攝影術,柯呈和、金載民,421,486
+Go,獨居時代一個人住，因為我可以,艾瑞克．克林南柏格(Eric Klinenberg) 著、洪世民 譯,297,297
+Swift,Swift程式設計入門,彼得潘,225,356
+Swift,Swift設計模式,Adam Freeman 著、楊尊一 譯,442,537
+Swift,iOS8SwiftProgramming錦囊妙計,Vandad Nahavandipoor 著、黃銘偉 譯,780,948
+Swift,Swift開發指南,關東升、趙志榮 著、林耕溥 譯,260,380
+Swift,學會Swift程式設計的18堂課,蔡明志,293,428
+Swift,提升iOS8App程式設計進階實力的30項關鍵技巧最新Swift開發教學,Simon Ng 著、王豪勳 譯,384,466
+Swift,從零開始學Swift程式設計,莊智佐,351,356
+Swift,學會Swift3程式設計的21堂課,蔡明志,356,428
+Swift,iOS11程式設計實戰Swift4快速上手的開發技巧200,朱克剛,458,458
+Swift,彼得潘的Swift程式設計入門,彼得潘,342,356
+Swift,Swift權威指南,李寧,314,287
+Swift,王者歸來OpenStack雲端系統NovaSwiftQuantumHadoop,戢友,616,702
+Swift,Swift程式設計範例經典讓您設計出專業級的iOSOSX應用程式,"Paul J. Deitel, Harvey Deitel 著、林耕溥 譯",312,456
+Swift,用Swift語言一次搞定所有蘋果裝置的程式開發,老鎮,427,427
+Swift,iOS9App程式設計實力超進化實戰攻略知名iOS教學部落格AppCoda作家親授實作關鍵技巧讓你不NG,Simon Ng 著、王豪勳 譯,449,545
+Swift,Swift面向協議編程,陳剛,371,390
+Swift,SwiftAR擴增實境與感應器開發,關東升,379,379
+Swift,Swift基礎入門學習手冊,邱俊傑,379,379
+Swift,瘋狂Swift講義,李剛,393,414
+Swift,Swift3開發指南,博為峰51Code教研組 (編),279,256
+Swift,Swift與Cocoa框架開發,[澳] 曼寧 巴特菲爾德-艾迪生 紐金特,507,465
+Swift,Swift語言實戰晉級,老鎮,450,412
+Swift,iOS編程基礎SwiftXcode和Cocoa入門指南,馬特·諾伊貝格（Matt Neuburg）,735,673
+Swift,移動操作系統原理與實踐基於iOS與Swift編程語言,關東升,393,360
+Swift,寫給大忙人看的Swift,"馬特·亨德森 (Matt Henderson), 戴夫·伍德 (Dave Wood)",314,330
+Swift,iOS10App程式設計實力超進化實戰攻略知名iOS教學部落格AppCoda作家親授實作關鍵技巧讓你不NG,Simon Ng 著、王豪勳 譯,562,540
+Swift,Swift從入門到精通,龍馬工作室,336,412
+Swift,Swift開發手冊技巧與實戰,陳剛,393,414
+Swift,Swift語言實戰精講,劉明洋,450,412
