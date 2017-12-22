@@ -1,0 +1,13 @@
+def main():
+   score = int(input('輸入分數:'))
+   if score >= 90:
+       print ('A')
+   elif 90 > score >= 80:
+       print ('B')
+   elif 80 > score >= 70:
+       print ('C')
+   else:
+       print ('不及格')
+
+if __name__ == "__main__":
+   main()
