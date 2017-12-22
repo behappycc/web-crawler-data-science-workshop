@@ -20,7 +20,7 @@ TENLONG_URL = 'https://www.tenlong.com.tw/search'
 BOOKS_URL = 'http://search.books.com.tw/search/query/key/<keyword>/cat/BKA'
 
 
-# Todo: 完成下面的函式，取得天攏書局的搜尋結果
+# Todo: 完成下面的函式，取得天瓏書局的搜尋結果
 def get_tenlong_page(url, keyword):
     params = {
         # 這三個欄位可以從 dev tool -> network 取得
@@ -38,7 +38,7 @@ def get_tenlong_page(url, keyword):
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
     }
 
-    # 使用 requests 跟天攏書局的伺服器要資料
+    # 使用 requests 跟天瓏書局的伺服器要資料
     resp = requests.get(url, params=params, headers=headers)
 
     # status_code = 200 代表你成功要到電話了，其他都是要不到電話的，還記得嗎？
@@ -50,7 +50,7 @@ def get_tenlong_page(url, keyword):
         return resp.text
 
 
-# Todo: 完成下面的函式，對天攏書局的搜尋結果做資料處理，擷取我們要的書籍清單
+# Todo: 完成下面的函式，對天瓏書局的搜尋結果做資料處理，擷取我們要的書籍清單
 def extract_book_list(response):
     # Todo: 完成下面這一行，用 BeautifulSoup 來幫你將網頁內容(string) 轉為 DOM tree
     soup = BeautifulSoup(response, 'html.parser')
@@ -136,7 +136,7 @@ def find_the_same_book(response, target_book):
 
 # 搜尋某個關鍵字
 def crawl_keyword(keyword):
-    # get_tenlong_page 可以取得在天攏書局搜尋某個關鍵字的網頁結果
+    # get_tenlong_page 可以取得在天瓏書局搜尋某個關鍵字的網頁結果
     page = get_tenlong_page(TENLONG_URL, keyword)
 
     # 如果有取得網頁結果，則從其中取出我們要的書籍清單
@@ -179,7 +179,7 @@ def output_to_csv(csvCursor, data, category):
 
 if __name__ == '__main__':
     # Todo: 完成下面這一行，定義你要爬的關鍵字們
-    keywords = ['python', 'java']
+    keywords = ['python', 'R']
 
     # Todo: 完成下面這三行，建立用來輸出結果的物件，並且設定好標題欄位
     file = open('./result.csv', 'w')

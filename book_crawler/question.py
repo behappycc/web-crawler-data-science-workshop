@@ -20,7 +20,7 @@ def strclear(text, newsign=''):
 # BOOKS_URL =
 
 
-# Todo: 完成下面的函式，取得天攏書局的搜尋結果
+# Todo: 完成下面的函式，取得天瓏書局的搜尋結果
 def get_tenlong_page(url, keyword):
     params = {
         # 這三個欄位可以從 dev tool -> network 取得
@@ -38,7 +38,7 @@ def get_tenlong_page(url, keyword):
         # 'User-Agent': '<here>',
     }
 
-    # 使用 requests 跟天攏書局的伺服器要資料
+    # 使用 requests 跟天瓏書局的伺服器要資料
     resp = requests.get(url, params=params, headers=headers)
 
     # status_code = 200 代表你成功要到電話了，其他都是要不到電話的，還記得嗎？
@@ -50,7 +50,7 @@ def get_tenlong_page(url, keyword):
         return resp.text
 
 
-# Todo: 完成下面的函式，對天攏書局的搜尋結果做資料處理，擷取我們要的書籍清單
+# Todo: 完成下面的函式，對天瓏書局的搜尋結果做資料處理，擷取我們要的書籍清單
 def get_book_list(response):
     # Todo: 完成下面這一行，用 BeautifulSoup 來幫你將網頁內容(string) 轉為 DOM tree
     # soup = BeautifulSoup(<here>, 'html.parser')
@@ -137,7 +137,7 @@ def find_the_same_book(response, target_book):
 
 # 搜尋某個關鍵字
 def crawl_keyword(keyword):
-    # get_tenlong_page 可以取得在天攏書局搜尋某個關鍵字的網頁結果
+    # get_tenlong_page 可以取得在天瓏書局搜尋某個關鍵字的網頁結果
     page = get_tenlong_page(TENLONG_URL, keyword)
 
     # 如果有取得網頁結果，則從其中取出我們要的書籍清單
